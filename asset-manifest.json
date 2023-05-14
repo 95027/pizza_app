@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/pizza_app/static/css/main.7cabab02.css",
+    "main.js": "/pizza_app/static/js/main.f47b6b1c.js",
+    "static/js/787.3a33840f.chunk.js": "/pizza_app/static/js/787.3a33840f.chunk.js",
+    "static/media/vegan.jpg": "/pizza_app/static/media/vegan.913ccab85e9f11a67d17.jpg",
+    "static/media/contact.jpg": "/pizza_app/static/media/contact.91c38537fd76608f27c2.jpg",
+    "static/media/todaysSpecial.jpg": "/pizza_app/static/media/todaysSpecial.38d38a2d906771bc177c.jpg",
+    "static/media/expensive.jpg": "/pizza_app/static/media/expensive.9319bd15f100a2801ba6.jpg",
+    "static/media/Margherita.jpg": "/pizza_app/static/media/Margherita.ffc25ce5bb5c7e49e653.jpg",
+    "static/media/Pineapple.jpg": "/pizza_app/static/media/Pineapple.f75ecd5870aae3531208.jpg",
+    "static/media/about.jpg": "/pizza_app/static/media/about.5315eef8161a74a10c6c.jpg",
+    "static/media/Pepperoni.jpg": "/pizza_app/static/media/Pepperoni.cd934832a643b91109b3.jpg",
+    "static/media/brand-icons.svg": "/pizza_app/static/media/brand-icons.6729d29753e000c17489.svg",
+    "static/media/icons.svg": "/pizza_app/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/banner.jpg": "/pizza_app/static/media/banner.f387c226737f742348e2.jpg",
+    "static/media/outline-icons.svg": "/pizza_app/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
+    "static/media/icons.eot": "/pizza_app/static/media/icons.a01e3f2d6c83dc3aee17.eot",
+    "static/media/icons.ttf": "/pizza_app/static/media/icons.c656b8caa454ed19b9a2.ttf",
+    "static/media/brand-icons.eot": "/pizza_app/static/media/brand-icons.d68fa3e67dbb653a13ce.eot",
+    "static/media/brand-icons.ttf": "/pizza_app/static/media/brand-icons.65a2fb6d9aaa164b41a0.ttf",
+    "static/media/brand-icons.woff": "/pizza_app/static/media/brand-icons.cac87dc00c87a5d74711.woff",
+    "static/media/logo.webp": "/pizza_app/static/media/logo.a49a588516228e810c83.webp",
+    "static/media/brand-icons.woff2": "/pizza_app/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
+    "static/media/icons.woff": "/pizza_app/static/media/icons.425399f81e4ce7cbd967.woff",
+    "static/media/icons.woff2": "/pizza_app/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/outline-icons.eot": "/pizza_app/static/media/outline-icons.752905fa5edf21fc52a1.eot",
+    "static/media/outline-icons.ttf": "/pizza_app/static/media/outline-icons.5367103510b27b784827.ttf",
+    "static/media/flags.png": "/pizza_app/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/outline-icons.woff": "/pizza_app/static/media/outline-icons.ddae9b1ba9b0b42f5880.woff",
+    "static/media/outline-icons.woff2": "/pizza_app/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
+    "index.html": "/pizza_app/index.html",
+    "main.7cabab02.css.map": "/pizza_app/static/css/main.7cabab02.css.map",
+    "main.f47b6b1c.js.map": "/pizza_app/static/js/main.f47b6b1c.js.map",
+    "787.3a33840f.chunk.js.map": "/pizza_app/static/js/787.3a33840f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cabab02.css",
+    "static/js/main.f47b6b1c.js"
+  ]
+}
