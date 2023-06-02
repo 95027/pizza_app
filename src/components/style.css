@@ -334,7 +334,7 @@
     }
     .contactRight
     {
-        width: 450px;
+        max-width: 450px;
         margin: 20px auto;
     }
 }
