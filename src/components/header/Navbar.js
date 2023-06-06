@@ -14,9 +14,9 @@ const Navbar = () => {
   return (
     <div className='navbar'>
         <div className='leftSide'>
-          <NavLink to="/home"><img src={logo} alt="logo"/></NavLink>
+          <NavLink to="/"><img src={logo} alt="logo"/></NavLink>
           <ul  id={openLinks ? 'open' : 'close'}>
-            <li><NavLink to="/home">Home</NavLink></li>
+            <li><NavLink to="/">Home</NavLink></li>
             <li><NavLink to="/menu">Menu</NavLink></li>
             <li><NavLink to="/about">About</NavLink></li>
             <li><NavLink to="/contact">Contact</NavLink></li>
@@ -24,7 +24,7 @@ const Navbar = () => {
         </div>
         <div className='rightSide'>
           <ul>
-            <li><NavLink to="/home">Home</NavLink></li>
+            <li><NavLink to="/">Home</NavLink></li>
             <li><NavLink to="/menu">Menu</NavLink></li>
             <li><NavLink to="/about">About</NavLink></li>
             <li><NavLink to="/contact">Contact</NavLink></li>

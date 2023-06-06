@@ -260,7 +260,6 @@
 .contactRight form input
 {
     height: 30px;
-    width: 100%;
     border: none;
     outline: none;
     padding: 0 12px;
@@ -330,11 +329,13 @@
     }
     .contact .contactLeft
     {
-        width: 100%;
+        width: 80%;
+        margin: 4px auto;
+        border-radius: 4px;
     }
     .contactRight
     {
-        max-width: 450px;
+        max-width: 300px;
         margin: 20px auto;
     }
 }

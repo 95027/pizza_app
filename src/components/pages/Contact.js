@@ -58,7 +58,9 @@ const Contact = () => {
     <div className='contact'>
       <div className='contactLeft' style={{backgroundImage:`url(${contact})`}}></div>
       <div className='contactRight'>
-        <h1>Contact Us</h1>
+        <div>
+          <h1>Contact Us</h1>
+        </div>
         <form method='post' onSubmit={submitHandler}>
           <label>Full Name:</label>
           <input type='text' name="user" placeholder='Enter your name' value={name} onChange={(e)=>setName(e.target.value)}/>
